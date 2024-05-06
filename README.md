@@ -18,7 +18,7 @@
 
 <div align="center"> 
   <a href="mailto:silly.cats.now@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linktr.ee/carz._musikz" target="_blank">
      <img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=Linktree&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->

@@ -1,4 +1,4 @@
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TortillaPapper.Carz._Musicz" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TortillaPapper.TortillaPapper" />
 
 - ⚡ I’m currently working on a UEFI operating system.
 - 🌱 I’m currently learning about operating systems and machine code.

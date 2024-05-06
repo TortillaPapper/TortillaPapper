@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **UEFI, OPERATING SYSTEMS, MACHINE CODE**
 
- ⚡ My Intrests **My favorite intrest byfar is space, my favorite planet is AB Pictoris b!**
+ ⚡ My favorite intrest byfar is **space, my favorite planet is AB Pictoris b!**
 
 </div>
 

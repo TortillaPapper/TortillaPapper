@@ -1,10 +1,8 @@
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TortillaPapper.TortillaPapper"/>
 
-- ⚡ I’m currently working on a UEFI operating system.
-- 🌱 I’m currently learning about operating systems and machine code.
-- 📫 How to reach me: my gmail is silly.cats.now@gmail.com
-- 😄 Pronouns: he/him
-- 🔭 My intrest: Space is by far my fav intrest, my fav planet is AB Pictoris b. :D
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
 #
   

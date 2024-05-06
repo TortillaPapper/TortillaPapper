@@ -6,6 +6,16 @@
 
 <h3 align="center">I Am From Sweden 🇸🇪</h3>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **UEFI OPERATING SYSTEM**
+ 
+ 🌱 I’m currently learning **UEFI, OPERATING SYSTEMS, MACHINE CODE**
+
+ ⚡ My Intrests **My favorite intrest byfar is space, my favorite planet is AB Pictoris b!**
+
+</div>
+
 #
   
 ![New Project](https://github.com/TortillaPapper/TortillaPapper/assets/165419437/0894ee34-bd15-47e1-ba5e-b621c084d11d)

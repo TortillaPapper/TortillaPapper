@@ -10,7 +10,7 @@
  
   🔭 I’m currently working on **OPERATING SYSTEMS**
  
- 🌱 I’m currently learning **OPERATING SYSTEMS, MACHINE CODE**
+ 🌱 I’m currently learning **C/C++ & ASM, MACHINE CODE**
 
  ⚡ My favorite intrest byfar is **space, my favorite planet is AB Pictoris b!**
 

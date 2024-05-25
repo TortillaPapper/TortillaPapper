@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **UEFI OPERATING SYSTEM**
+  🔭 I’m currently working on **OPERATING SYSTEMS**
  
- 🌱 I’m currently learning **UEFI, OPERATING SYSTEMS, MACHINE CODE**
+ 🌱 I’m currently learning **OPERATING SYSTEMS, MACHINE CODE**
 
  ⚡ My favorite intrest byfar is **space, my favorite planet is AB Pictoris b!**
 

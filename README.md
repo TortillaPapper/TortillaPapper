@@ -12,7 +12,11 @@
  
  🌱 I’m currently learning **C/C++ & ASM, MACHINE CODE**
 
- ⚡ My favorite intrest byfar is **space, my favorite planet is AB Pictoris b!**
+ ⚡ My favorite intrest byfar is **space. My favorite planet is AB Pictoris b!**
+
+ ✨ Lua is also one of my specialties as ive been programming in roblox studio since i was 8.
+
+ 
 
 </div>
 
